@@ -1,0 +1,10 @@
+D:\C#\丙設\撲克牌比大小\bin\Debug\撲克牌比大小.exe.config
+D:\C#\丙設\撲克牌比大小\bin\Debug\撲克牌比大小.exe
+D:\C#\丙設\撲克牌比大小\bin\Debug\撲克牌比大小.pdb
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.csprojAssemblyReference.cache
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.Form1.resources
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.Properties.Resources.resources
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.csproj.GenerateResource.cache
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.csproj.CoreCompileInputs.cache
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.exe
+D:\C#\丙設\撲克牌比大小\obj\Debug\撲克牌比大小.pdb

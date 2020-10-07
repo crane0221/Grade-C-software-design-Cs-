@@ -1,0 +1,10 @@
+D:\C#\丙設\分數加,減,乘,除\bin\Debug\分數加,減,乘,除.exe.config
+D:\C#\丙設\分數加,減,乘,除\bin\Debug\分數加,減,乘,除.exe
+D:\C#\丙設\分數加,減,乘,除\bin\Debug\分數加,減,乘,除.pdb
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加,減,乘,除.csprojAssemblyReference.cache
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加_減_乘_除.Form1.resources
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加_減_乘_除.Properties.Resources.resources
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加,減,乘,除.csproj.GenerateResource.cache
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加,減,乘,除.csproj.CoreCompileInputs.cache
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加,減,乘,除.exe
+D:\C#\丙設\分數加,減,乘,除\obj\Debug\分數加,減,乘,除.pdb
