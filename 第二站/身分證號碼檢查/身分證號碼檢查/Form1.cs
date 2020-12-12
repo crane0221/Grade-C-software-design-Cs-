@@ -14,9 +14,9 @@ namespace 身分證號碼檢查
     public partial class Form1 : Form
     {
         
-        static int rno;
-        static string ec;
-        static string[,] d = new string[100, 4];
+        int rno;
+        string ec;
+        string[,] d = new string[100, 4];
         
 
 
